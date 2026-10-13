@@ -11,7 +11,7 @@ Viber and Live Chat land in one Odoo-native interface, linked to contacts and
 CRM leads, with operator assignment, scheduled replies, canned replies and
 reporting. LGPL-3.
 
-[![EWIN Inbox](https://raw.githubusercontent.com/ewin-codes/ewin-inbox/main/screenshots/conversation.png)](https://github.com/ewin-codes/ewin-inbox)
+[![EWIN Inbox](https://raw.githubusercontent.com/ewin-codes/ewin-inbox/18.0/screenshots/conversation.png)](https://github.com/ewin-codes/ewin-inbox)
 
 ### Work with us
 
